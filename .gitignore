@@ -11,5 +11,9 @@ __pycache__/
 .idea/
 .vscode/
 
+# System
+.DS_Store
+Thumbs.db
+
 # Hugging Face / cache
 .cache/

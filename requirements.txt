@@ -7,4 +7,6 @@ python-docx==1.1.2
 PyPDF2==3.0.1
 sentencepiece==0.2.0
 sacremoses==0.1.1
-protobuf==5.28.3
+protobuf==4.25.3
+gradio==4.44.0
+requests==2.32.3
