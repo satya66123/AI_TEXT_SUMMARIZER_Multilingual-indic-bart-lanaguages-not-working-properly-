@@ -19,7 +19,7 @@ It supports summarization of **English, Telugu, Hindi, Pashto, and other languag
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/<your-username>/multilingual-summarizer.git
+   git clone https://github.com/satya66123/AI_TEXT_SUMMARIZER_Multilingual.git
    cd multilingual-summarizer
 
 ▶️ Running Locally
@@ -86,7 +86,7 @@ Example (cURL):
 curl -X POST "http://127.0.0.1:8000/summarize" \
   -F "text=William Shakespeare is one of the greatest writers..."
 
-📷 Screenshots
+
 
 (Add screenshots of your Gradio UI and FastAPI docs here)
 
@@ -100,7 +100,7 @@ Deploy frontend and backend together.
 
 👨‍💻 Author
 
-Your Name – GitHub Profile
+Your Name – satya66123
 
 
 ---
